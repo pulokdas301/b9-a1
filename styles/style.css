@@ -85,7 +85,7 @@ body {
 .bonus-part {
     width: 1320px;
     height: 482px;
-    background-color: greenyellow;
+    background-color: #FFF8F3;
     margin: 8px;
     margin-top: 112px;
 
@@ -169,6 +169,36 @@ span {
     color: #FF0000;
 }
 
+.discount-part {
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    background-position: bottom;
+
+}
+
+.discount-header {
+
+    width: 1320px;
+    height: 600px;
+    margin-bottom: 50px;
+}
+
+
+.img-part {
+    background-image: url(../resources/Rectangle\ 2.png);
+    width: 1320px;
+    height: 229px;
+}
+
+#discoun-part {
+
+    height: 91px;
+    font-size: 73px;
+}
+
+
+
 /* main container start */
 .main-container {
     justify-content: center;
@@ -210,7 +240,7 @@ span {
     margin-top: 30px;
     width: 103px;
     font-size: 20px;
-    background-color: greenyellow;
+    background-color: #FFF8F3;
     border-radius: 10px;
 }
 
@@ -230,7 +260,7 @@ span {
 .end-section-main {
     width: 1320px;
     height: 616px;
-    background-color: greenyellow;
+    background-color: #FFF8F3;
     margin: 10px 10px;
 
     padding-left: 0;
@@ -257,7 +287,10 @@ span {
     justify-content: space-around;
     margin: 24px 24px 24px 0;
     border-radius: 16px;
+
 }
+
+
 
 .end-main {
     display: flex;
@@ -354,8 +387,9 @@ footer {
 
 hr {
     width: 940px;
-    color: #FFFFFF;
+    color: #474747;
     margin-left: 200px;
+    opacity: 10%;
 
 }
 
