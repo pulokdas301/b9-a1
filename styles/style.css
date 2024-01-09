@@ -52,6 +52,12 @@ body {
 
 }
 
+.main-button {
+    background-color: #FF0000;
+    border: 0;
+    color: #FFF8F3;
+}
+
 
 
 .section-mid {
